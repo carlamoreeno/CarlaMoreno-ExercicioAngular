@@ -1,0 +1,16 @@
+footer{
+  background-color: #ED1B2E;
+  color: #FFFFFF;
+  position: absolute;
+  width: 100%;
+  padding-top: 10px;
+  margin-bottom: 0;
+}
+
+
+#copyright{
+  padding-left: 40px;
+}
+#links{
+  text-align: center;
+}
